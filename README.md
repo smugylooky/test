@@ -8,3 +8,5 @@ Tan solo se ha utilizado la de mysql connector
 	<artifactId>mysql-connector-j</artifactId>
 	<scope>runtime</scope>
 </dependency>
+
+Ruta de generación: C:\TestEjercicio
